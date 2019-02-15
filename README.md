@@ -74,7 +74,7 @@ To deploy this system:
 
 * **Martin Klamrowski** - *Client, Server* - [github](https://github.com/martinklamrowski)
 * **Tufayl Dhalla** - *Hardware, Arduino* - [github](https://github.com/tufayldhalla)
-* **Birat Dhungana** - *Mobile App* - [github](https://github.com/birat7)
+* **Birat Dhungana** - *Mobile App* - [github](https://github.com/biratdhungana)
 * **Angie Byun** - *Client, Server, Testing* - [github](https://github.com/angiebyun)
 
 ## License
